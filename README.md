@@ -6,7 +6,6 @@
 ``` bash
 # install dependencies
 composer install
-npm install
 
 # create database "assignment", Database Host=127.0.0.1 and Port=3306
 php artisan migrate
